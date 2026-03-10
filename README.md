@@ -11,11 +11,11 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
 
-**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
+**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`] Biscoe, Dream, Torgersen
 
-**Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this]
+**Sample size:** [TODO: How many penguins are in the raw dataset? Hint: look at how the analysis script checks this] 344
 
-**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV]
+**Years of data collection:** [TODO: What years were data collected? Hint: check the `year` column in the CSV] 2007, 2008, 2009
 
 ## Variables Measured
 
