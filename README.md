@@ -1,3 +1,10 @@
+BIG CHANGESSSSSSS
+
+## Authors
+
+Anna Handford
+
+
 # Penguin Analysis
 
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
@@ -71,8 +78,5 @@ penguin-analysis/
 
 Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarctica) penguin data.* R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/
 
-## Authors
-
-Anna Handford
 
 
